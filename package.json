@@ -1,0 +1,11 @@
+{
+  "name": "chuanxia-prompt-atelier",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "本地优先的画师串、角色词与服装提示词组合工具",
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test --test-isolation=none tests/*.test.mjs"
+  }
+}
