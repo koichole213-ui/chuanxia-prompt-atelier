@@ -1,4 +1,4 @@
-# 串匣 · Prompt Atelier
+# 浮光绘匣 · Prompt Atelier
 
 本地优先的画师串、角色词、服装和场景提示词收藏与组合工具。
 
